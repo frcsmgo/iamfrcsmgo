@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [github.com/iamfrcsmgo](@iamfrcsmgo)
+- 👋 Hi, I’m [@iamfrcsmgo](https://github.com/iamfrcsmgo)
 - 🌱 I’m currently learning HTML, CSS, JS, PHP
 - 📫 How to reach me [iamfrcsmgo.github.io](https://iamfrcsmgo.github.io)
 
