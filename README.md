@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [github.com/iamfrcsmgo](@iamfrcsmgo)
 - 🌱 I’m currently learning HTML, CSS, JS, PHP
-- 📫 How to reach me [iamfrcsmgo.github.io](iamfrcsmgo.github.io)
+- 📫 How to reach me [iamfrcsmgo.github.io](https://iamfrcsmgo.github.io)
 
 <!---
 iamfrcsmgo/iamfrcsmgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
