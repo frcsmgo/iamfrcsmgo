@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@iamfrcsmgo](https://github.com/iamfrcsmgo)
-- 🌱 I’m currently learning HTML, CSS, JS, PHP
+- 🌱 I’m currently learning HTML, CSS, JS, PHP & more
 - 📫 How to reach me : [iamfrcsmgo.github.io/contact](https://iamfrcsmgo.github.io/contact)
 
 <!---
