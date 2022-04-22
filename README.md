@@ -1,2 +1,2 @@
 - 👋 Hi, I’m [@iamfrcsmgo](https://github.com/iamfrcsmgo)
-- 🌱 I’m still currently learning
+- 🌱 I’m still currently learning.
